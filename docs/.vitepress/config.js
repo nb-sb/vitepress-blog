@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress';
 import AutoSidebar from 'vite-plugin-vitepress-auto-sidebar';
 export default defineConfig({
-  base: '/',
+  base: '/vitepress-blog/',
   title: '戏人看戏',
   description: '戏人看戏',
   head: [['meta', { name: 'keywords', content: '戏人看戏, java, python, golang , fisco' }]],
