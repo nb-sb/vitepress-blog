@@ -7,7 +7,7 @@ hero:
   tagline: 花开堪折直须折，莫待无花空折枝。
   image:
     src: /logo/image.png
-    alt: 网站的 logo 图片
+    alt: 网站的 logo 图片。
   actions:
     - theme: brand
       text: 快速了解
