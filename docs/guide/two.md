@@ -1,0 +1,1 @@
+123321insert into t_user (id, name, age, email) values (1, 'zhangsan', 18, 'zhangsan@163.com');
