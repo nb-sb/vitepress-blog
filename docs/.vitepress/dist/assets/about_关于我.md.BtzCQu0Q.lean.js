@@ -1,0 +1,2 @@
+import{_ as e,c as a,o,m as t}from"./chunks/framework.B8TLx6lf.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"doc"},"headers":[],"relativePath":"about/关于我.md","filePath":"about/关于我.md","lastUpdated":1712066195000}'),s={name:"about/关于我.md"},n=t("pre",null,[t("code",null,`大家好，这个个人博客用于分享进阶技术例如手写mybatis、spring、jvm等，其他基础的使用教程可以到我之前的博客查看
+`)],-1),r=[n];function c(_,d,l,i,p,m){return o(),a("div",null,r)}const h=e(s,[["render",c]]);export{f as __pageData,h as default};
