@@ -12,3 +12,7 @@
     border-radius: 50%;
     border: #ffc822 2px solid;
 }
+.vp-doc div[class*='language-'], .vp-block{
+  margin: 0px;
+  border-radius: 8px;
+}

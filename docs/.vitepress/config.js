@@ -13,13 +13,19 @@ export default defineConfig({
     siteTitle: '',
     logo: '/logo/logo.jpg',
     nav: [
-      { text: 'Guide', link: '/guide', activeMatch: 'https://github.com/nb-sb/' },
+      // { text: 'Guide', link: '/guide', activeMatch: 'https://github.com/nb-sb/' },
       {
         text: 'java',
         items: [
           { text: 'mybatis', link: '/mybatis/介绍/介绍' },
-          { text: 'spring', link: 'http://www.baidu.com' },
-          { text: 'jvm', link: 'http://www.baidu.com' }
+          { text: 'spring', link: '/' },
+          { text: 'jvm', link: '/' }
+        ]
+      },
+      {
+        text: 'DDD',
+        items: [
+          
         ]
       }
     ],
