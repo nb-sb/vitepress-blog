@@ -94,7 +94,7 @@ private void mapperElement(Element mappers) throws Exception {
 
 
 
-![代码设计](../../public/mybatis/8/mybatis-240407-03.png)
+![代码设计](../../public/mybatis/8/mybatis-240407-03-2909959.png)
 
 
 
